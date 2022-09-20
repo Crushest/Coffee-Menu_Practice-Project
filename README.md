@@ -1,2 +1,2 @@
 # Coffee Menu Practice Project
-#Test
+A simple yet loaded educational project that allowed me to work with multiple fucntions and putting all the information and recording it into a txt file. This has no UI so it can only be run through a terminal at the moment, but when I do learn the skills I may come back to this project and update. The main menu calls all the other functions and records the data. With the menu you can add to the txt file, show it, search for a specific item, modify a current item, or delete an item entirely.
