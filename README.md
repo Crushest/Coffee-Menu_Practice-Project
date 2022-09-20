@@ -1,1 +1,1 @@
-# Coffee-Menu_Practice-Project
+# Coffee Menu Practice Project
